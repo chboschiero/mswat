@@ -1,17 +1,21 @@
 body {
-    background-color: gray;
+    background-color: #e7b4fc;
 }
 
 p {
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 #special {
-    color: violet;
+    color: #ce1cce;
 }
 
 h1, h2, h3 {
-    color: yellow;
+    color: #93f823;
+}
+
+h4, h5, h6 {
+    color: #2b5555;
 }
 
 .myClass {
@@ -19,16 +23,16 @@ h1, h2, h3 {
 }
 
 p.myClass {
-    color: blue;
+    color: #ff0080;
 }
 
 #paragraphId {
-    color: red;
+    color: #8080ff;
 }
 
 #blockId {
-    border: 3px solid #ff8000;
-    background-color: #ffff80;
+    border: 3px solid #235a0c;
+    background-color: #d2ffa6;
 }
 
 .boldCls {

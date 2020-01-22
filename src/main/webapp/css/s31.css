@@ -5,15 +5,20 @@ table {
 }
 
 td, th {
-    border: 1px solid red;
+    border: 1px solid #000000;
     padding: 3px;
     text-align: center;
 }
 
 th {
-    background-color: lightblue;
+    background-color: #0000ff;
 }
 
 td {
-    background-color: lightgreen;
+    background-color: #00ffff;
+}
+
+p {
+	border: #green;
+	padding: 2px;
 }
